@@ -17,6 +17,7 @@ A secure RESTful API for managing family cash cards, built with Spring Boot and 
 - [Testing](#testing)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [Author](#author)
 
 ## 🎯 Overview
 
@@ -65,8 +66,8 @@ The Family Cash Card API is a Spring Boot application that allows families to ma
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/cashcard.git
-cd cashcard
+git clone https://github.com/Juste120/family-cashcard-api.git
+cd family-cashcard-api
 ```
 
 2. **Build the project**
@@ -354,7 +355,7 @@ open build/reports/tests/test/index.html
 
 ## 📁 Project Structure
 ```
-cashcard/
+family-cashcard-api/
 ├── src/
 │   ├── main/
 │   │   ├── java/juste/cashcard/
@@ -378,6 +379,7 @@ cashcard/
 ├── settings.gradle                            # Project Settings
 ├── gradlew                                    # Gradle Wrapper (Unix)
 ├── gradlew.bat                                # Gradle Wrapper (Windows)
+├── LICENSE                                    # MIT License
 └── README.md                                  # This file
 ```
 
@@ -453,9 +455,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Juste**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Pakou Komi Juste**
+- GitHub: [@Juste120](https://github.com/Juste120)
+- LinkedIn: [Pakou Komi Juste](https://linkedin.com/in/pakou-komi-juste-a72914264)
+- Location: Togo, Maritime
 
 ## 🙏 Acknowledgments
 
@@ -468,7 +471,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ using Spring Boot**
 
 ⭐ Star this repo if you find it helpful!
-```
 
 ## 3. Fichier LICENSE (MIT)
 

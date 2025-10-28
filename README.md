@@ -457,7 +457,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Pakou Komi Juste**
 - GitHub: [@Juste120](https://github.com/Juste120)
-- LinkedIn: [Pakou Komi Juste](https://linkedin.com/in/pakou-komi-juste-a72914264)
+- LinkedIn: [Pakou Komi Juste](https://www.linkedin.com/in/pakou-komi-juste-941536314/)
 - Location: Togo, Maritime
 
 ## 🙏 Acknowledgments
